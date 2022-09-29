@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/imam.png": "5817bdb8d550ddbdc34d919f367fb85d",
 "assets/assets/logo.png": "96bf5d6149f4e2a520c1e462c78ef4da",
 "assets/assets/muezzin.png": "1cd5c29a0feaf5c41229c318c8124993",
-"assets/assets/sss.json": "9f0cafd8c09e1e8336f005a08e006968",
+"assets/assets/sss.json": "d012dad0a77fbb67c422a691d808b342",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "f95ce81ece18e40d54527755ee53518b",
@@ -37,9 +37,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "781e8fb27a59ed199092e150ad9be3f5",
-"/": "781e8fb27a59ed199092e150ad9be3f5",
-"main.dart.js": "37e135dcaf1fe7ff1ae590cbec3ee2aa",
+"index.html": "382105ce2725c6fbc0cab1b15b84e7da",
+"/": "382105ce2725c6fbc0cab1b15b84e7da",
+"main.dart.js": "2c2d20551828a31f3daa208e3cb54f99",
 "manifest.json": "b4c177ed3f97904c90b09344e4cdd47d",
 "version.json": "bdeb17008bde11fe7d78ebc69406a5cc"
 };
