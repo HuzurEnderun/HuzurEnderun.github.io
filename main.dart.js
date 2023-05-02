@@ -41690,7 +41690,7 @@ s=J.e(J.r(p.as,n),1)?J.bv(J.r(p.y,m)):20
 r=J.arP(s,t.l7)
 for(q=0;q<s;++q)r[q]=A.aS(o,J.e(J.r(p.as,n),1)?new A.ae(B.aV,A.ct(A.a([B.Pk,B.nX,A.aF(J.r(J.r(J.r(p.y,m),q),"name"),o,o,o,B.h0,B.aq,o),new A.x3(1,B.i3,A.aF(B.b.G("\n",J.r(J.r(J.r(p.y,m),q),"description")),o,o,o,B.Nc,o,o),o)],i),B.u,B.z,B.o),o):A.os("https://loremflickr.com/1920/"+B.e.i(1080+q)+"/nature",B.de,1),o,o,B.eu,o,B.eI,o,1/0)
 l=A.ct(A.a([j,A.bI(A.cn(A.a([l,A.bI(new A.ae(B.q,A.arG(!0,B.nZ,!0,1/0,r,new A.akP(p)),o),1)],i),B.u,B.z,B.o,o),48)],i),B.bf,B.z,B.o)
-return A.jz(o,B.AS,A.pv(B.cz,A.a([l,J.e(J.r(p.as,n),0)?new A.ae(B.o5,A.aS(o,A.ct(A.a([new A.ae(B.Cq,A.fl(A.aF("Bak\u0131m Yap\u0131l\u0131yor\n\nZil \xc7al\u0131\u015f\u0131yor Panoyu Kapatmay\u0131n\n\n\ntrynstudios.com",o,o,o,A.b9(o,o,A.aC(255,255,255,255),o,o,o,o,o,o,o,o,60,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.aq,o),o,o),o)],i),B.bf,B.aB,B.o),B.n,o,o,o,o,o,o),o):B.KE],i),B.Y,B.cu),o,o)},
+return A.jz(o,B.AS,A.pv(B.cz,A.a([l,J.e(J.r(p.as,n),0)?new A.ae(B.o5,A.aS(o,A.ct(A.a([new A.ae(B.Cq,A.fl(A.aF("Bak\u0131m Yap\u0131l\u0131yor\n\nZil \xc7al\u0131\u015f\u0131yor Panoyu Kapatmay\u0131n\n\n\ntrynstudio.com",o,o,o,A.b9(o,o,A.aC(255,255,255,255),o,o,o,o,o,o,o,o,60,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.aq,o),o,o),o)],i),B.bf,B.aB,B.o),B.n,o,o,o,o,o,o),o):B.KE],i),B.Y,B.cu),o,o)},
 ai2(){var s,r=this,q="kronolojiler",p="kronoloji"
 for(s=0;s<J.bv(J.r(J.r(J.r(r.Q,q),1),p));++s)r.w=B.b.G(r.w+"\n",J.a_(J.r(J.r(J.r(J.r(r.Q,q),1),p),s)))
 r.a_(new A.akR(r))}}
