@@ -45858,14 +45858,14 @@ return A.F(A.du(l).dQ("assets/sss.json"),$async$aA)
 case 2:p=k.dt(0,b,null)
 l=J.a8(p)
 s=3
-return A.F(A.cV(A.bs("https://"+J.ag(l.h(p,"servis"))+"/ayarlar",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(l.h(p,"servis"))+"/ayarlar",0,null),null),$async$aA)
 case 3:o=b
 q.as=B.p.aM(0,A.dp(A.dm(o.e).c.a.h(0,"charset")).aM(0,o.w))
 s=4
-return A.F(A.cV(A.bs("https://"+J.ag(l.h(p,"servis"))+"/hadis",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(l.h(p,"servis"))+"/hadis",0,null),null),$async$aA)
 case 4:n=b
 s=5
-return A.F(A.cV(A.bs("https://"+J.ag(l.h(p,"servis"))+"/afis",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(l.h(p,"servis"))+"/afis",0,null),null),$async$aA)
 case 5:m=b
 if(n.b===200)q.a5(new A.alP(q,n,m))
 return A.L(null,r)}})
@@ -45955,7 +45955,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/duyuru",0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/duyuru",0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200)q.a5(new A.agC(q,p))
 else A.dr("Error")
@@ -45993,7 +45993,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/ayarlar",0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/ayarlar",0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200)q.a5(new A.ald(q,p))
 else A.dr("Error")
@@ -46135,7 +46135,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/duyuru",0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/duyuru",0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200)q.a5(new A.aja(q,p))
 else A.dr("Error")
@@ -46159,7 +46159,7 @@ case 2:p=n.dt(0,b,null)
 A.nV("Duyuru G\xfcncellendi",0,o)
 o=t.N
 s=3
-return A.F(A.arD(A.bs("https://"+J.ag(J.r(p,"servis"))+"/duyuru",0,null),A.au(["text",q.a.d.a.a],o,o)),$async$$0)
+return A.F(A.arD(A.bs(J.ag(J.r(p,"servis"))+"/duyuru",0,null),A.au(["text",q.a.d.a.a],o,o)),$async$$0)
 case 3:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:16}
@@ -46187,7 +46187,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/hadis",0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/hadis",0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200)q.a5(new A.ak1(q,p))
 else A.dr("Error")
@@ -46213,7 +46213,7 @@ case 2:p=n.dt(0,b,null)
 A.nV("Hadis-i \u015eerif G\xfcncellendi",0,o)
 o=t.N
 s=3
-return A.F(A.arD(A.bs("https://"+J.ag(J.r(p,"servis"))+"/hadis",0,null),A.au(["text",q.a.d.a.a],o,o)),$async$$0)
+return A.F(A.arD(A.bs(J.ag(J.r(p,"servis"))+"/hadis",0,null),A.au(["text",q.a.d.a.a],o,o)),$async$$0)
 case 3:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:16}
@@ -46235,7 +46235,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/ayarlar",0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/ayarlar",0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200){q.y=B.p.aM(0,A.dp(A.dm(p.e).c.a.h(0,"charset")).aM(0,p.w))
 q.a5(new A.ahg(q))}else A.dr("Error")
@@ -46292,7 +46292,7 @@ o=J.ag(J.r(p,"servis"))
 n=l.x
 m=l.r?1:0
 s=3
-return A.F(k.Vi("https://"+o+"/ayarlar",A.au(["programturu",n,"vakit",m,"tarihtebugun",l.w?1:0],t.N,t.S),t.z),$async$$0)
+return A.F(k.Vi(o+"/ayarlar",A.au(["programturu",n,"vakit",m,"tarihtebugun",l.w?1:0],t.N,t.S),t.z),$async$$0)
 case 3:l=l.c
 l.toString
 A.c3(l,!1).fU(!1)
@@ -46337,7 +46337,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/afis",0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/afis",0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200)q.a5(new A.agI(q,p))
 else A.dr("Error")
@@ -46379,7 +46379,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$$0)
 case 3:s=2
-return A.F(n.avs(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/afis/"+J.ag(J.r(J.r(q.a.d,q.c),"id")),0,null)),$async$$0)
+return A.F(n.avs(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/afis/"+J.ag(J.r(J.r(q.a.d,q.c),"id")),0,null)),$async$$0)
 case 2:A.c3(o,!1).fU(null)
 p=A.eo(new A.agJ(),null,t.z)
 A.c3(o,!1).dC(p)
@@ -46418,7 +46418,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$$0)
 case 3:s=2
-return A.F(n.aR_(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/afis",0,null),A.au(["url",q.a.d.a.a],p,p)),$async$$0)
+return A.F(n.aR_(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/afis",0,null),A.au(["url",q.a.d.a.a],p,p)),$async$$0)
 case 2:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:16}
@@ -46438,10 +46438,10 @@ return A.F(A.du(m).dQ("assets/sss.json"),$async$aA)
 case 2:p=l.dt(0,b,null)
 m=J.a8(p)
 s=3
-return A.F(A.cV(A.bs("https://"+J.ag(m.h(p,"servis"))+"/imam/",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(m.h(p,"servis"))+"/imam/",0,null),null),$async$aA)
 case 3:o=b
 s=4
-return A.F(A.cV(A.bs("https://"+J.ag(m.h(p,"servis"))+"/muezzin/",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(m.h(p,"servis"))+"/muezzin/",0,null),null),$async$aA)
 case 4:n=b
 if(o.b===200)q.a5(new A.akl(q,o,n))
 else A.dr("Error")
@@ -46474,9 +46474,9 @@ return A.F(c.dQ("assets/sss.json"),$async$qj)
 case 4:a1=a2.dt(0,a4,null)
 c=J.a8(a1);++d
 s=5
-return A.F(A.arD(A.bs("https://"+J.ag(c.h(a1,"servis"))+"/imam/"+B.e.i(d),0,null),A.au(["name",b],p,p)),$async$qj)
+return A.F(A.arD(A.bs(J.ag(c.h(a1,"servis"))+"/imam/"+B.e.i(d),0,null),A.au(["name",b],p,p)),$async$qj)
 case 5:s=6
-return A.F(A.arD(A.bs("https://"+J.ag(c.h(a1,"servis"))+"/muezzin/"+B.e.i(d),0,null),A.au(["name",a0],p,p)),$async$qj)
+return A.F(A.arD(A.bs(J.ag(c.h(a1,"servis"))+"/muezzin/"+B.e.i(d),0,null),A.au(["name",a0],p,p)),$async$qj)
 case 6:s=2
 break
 case 3:p=q.c
@@ -46531,7 +46531,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/program"+B.e.i(q.d)+"?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/program"+B.e.i(q.d)+"?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200)q.a5(new A.amw(q,p))
 else A.dr("Error")
@@ -46609,7 +46609,7 @@ j=B.p
 s=3
 return A.F(A.du(p).dQ("assets/sss.json"),$async$$0)
 case 3:s=2
-return A.F(n.avs(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/program"+B.e.i(o.d)+"/"+J.ag(J.r(J.r(o.e,q.c),"id")),0,null)),$async$$0)
+return A.F(n.avs(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/program"+B.e.i(o.d)+"/"+J.ag(J.r(J.r(o.e,q.c),"id")),0,null)),$async$$0)
 case 2:A.c3(p,!1).fU(null)
 o=A.eo(new A.amx(o),null,t.z)
 A.c3(p,!1).dC(o)
@@ -46638,7 +46638,7 @@ j=B.p
 s=3
 return A.F(A.du(o).dQ("assets/sss.json"),$async$aA)
 case 3:s=2
-return A.F(n.cV(m.bs("https://"+l.ag(k.r(j.dt(0,b,null),"servis"))+"/program"+B.e.i(q.e)+"/"+B.e.i(q.d),0,null),null),$async$aA)
+return A.F(n.cV(m.bs(l.ag(k.r(j.dt(0,b,null),"servis"))+"/program"+B.e.i(q.e)+"/"+B.e.i(q.d),0,null),null),$async$aA)
 case 2:p=b
 if(p.b===200)q.a5(new A.aqn(q,p))
 else A.dr("Error")
@@ -46743,11 +46743,11 @@ f=f.f
 s=n===0?3:5
 break
 case 3:s=6
-return A.F(A.asD(null).AN(0,"https://"+J.ag(m.h(p,"servis"))+"/program"+B.e.i(i),null,A.au(["yazi",h.a.a,"baslangicsaat",A.b2(o.a.a,null),"bitissaat",A.b2(g.a.a,null),"icon",f.a.a,"boyut","2.5"],l,k),null,null,A.awW("POST",null),null,j),$async$$0)
+return A.F(A.asD(null).AN(0,J.ag(m.h(p,"servis"))+"/program"+B.e.i(i),null,A.au(["yazi",h.a.a,"baslangicsaat",A.b2(o.a.a,null),"bitissaat",A.b2(g.a.a,null),"icon",f.a.a,"boyut","2.5"],l,k),null,null,A.awW("POST",null),null,j),$async$$0)
 case 6:s=4
 break
 case 5:s=7
-return A.F(A.asD(null).Vi("https://"+J.ag(m.h(p,"servis"))+"/program"+B.e.i(i)+"/"+B.e.i(n),A.au(["yazi",h.a.a,"baslangicsaat",A.b2(o.a.a,null),"bitissaat",A.b2(g.a.a,null),"icon",f.a.a,"boyut","2.5"],l,k),j),$async$$0)
+return A.F(A.asD(null).Vi(J.ag(m.h(p,"servis"))+"/program"+B.e.i(i)+"/"+B.e.i(n),A.au(["yazi",h.a.a,"baslangicsaat",A.b2(o.a.a,null),"bitissaat",A.b2(g.a.a,null),"icon",f.a.a,"boyut","2.5"],l,k),j),$async$$0)
 case 7:case 4:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:16}
@@ -46816,7 +46816,7 @@ return A.F(A.du(p).dQ("assets/sss.json"),$async$aA)
 case 2:o=i.dt(0,b,null)
 p=J.a8(o)
 s=3
-return A.F(A.cV(A.bs("https://"+J.ag(p.h(o,"servis"))+"/ayarlar",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(p.h(o,"servis"))+"/ayarlar",0,null),null),$async$aA)
 case 3:n=b
 m=B.p.aM(0,A.dp(A.dm(n.e).c.a.h(0,"charset")).aM(0,n.w))
 s=4
@@ -46827,14 +46827,14 @@ s=J.d(m.h(l,"programturu"),1)?5:7
 break
 case 5:i=j
 s=8
-return A.F(A.cV(A.bs("https://"+J.ag(p.h(o,"servis"))+"/program1?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(p.h(o,"servis"))+"/program1?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
 case 8:p=i.a=b
 s=6
 break
 case 7:s=J.d(m.h(l,"programturu"),3)?9:11
 break
 case 9:s=12
-return A.F(A.cV(A.bs("https://"+J.ag(p.h(o,"servis"))+"/program"+B.e.i(A.tH(new A.b3(Date.now(),!1)))+"?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(p.h(o,"servis"))+"/program"+B.e.i(A.tH(new A.b3(Date.now(),!1)))+"?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
 case 12:k=b
 j.a=k
 p=k
@@ -46843,7 +46843,7 @@ break
 case 11:s=A.tH(new A.b3(Date.now(),!1))===6?13:15
 break
 case 13:s=16
-return A.F(A.cV(A.bs("https://"+J.ag(p.h(o,"servis"))+"/program6?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(p.h(o,"servis"))+"/program6?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
 case 16:k=b
 j.a=k
 p=k
@@ -46852,14 +46852,14 @@ break
 case 15:s=A.tH(new A.b3(Date.now(),!1))===7?17:19
 break
 case 17:s=20
-return A.F(A.cV(A.bs("https://"+J.ag(p.h(o,"servis"))+"/program7?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(p.h(o,"servis"))+"/program7?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
 case 20:k=b
 j.a=k
 p=k
 s=18
 break
 case 19:s=21
-return A.F(A.cV(A.bs("https://"+J.ag(p.h(o,"servis"))+"/program1?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
+return A.F(A.cV(A.bs(J.ag(p.h(o,"servis"))+"/program1?_sort=bitissaat&_order=asc",0,null),null),$async$aA)
 case 21:k=b
 j.a=k
 p=k
@@ -46985,20 +46985,20 @@ return A.F(A.du(j).dQ("assets/sss.json"),$async$k5)
 case 2:p=i.dt(0,b,null)
 j=J.a8(p)
 s=3
-return A.F(A.cV(A.bs("https://"+J.ag(j.h(p,"servis"))+"/ayarlar",0,null),null),$async$k5)
+return A.F(A.cV(A.bs(J.ag(j.h(p,"servis"))+"/ayarlar",0,null),null),$async$k5)
 case 3:o=b
 q.z=B.p.aM(0,A.dp(A.dm(o.e).c.a.h(0,"charset")).aM(0,o.w))
 s=4
-return A.F(A.cV(A.bs("https://"+J.ag(j.h(p,"servis"))+"/duyuru",0,null),null),$async$k5)
+return A.F(A.cV(A.bs(J.ag(j.h(p,"servis"))+"/duyuru",0,null),null),$async$k5)
 case 4:n=b
 s=5
 return A.F(A.cV(A.bs(B.c.P(u.p,j.h(p,"vakitid"))+'"&lang=1',0,null),null),$async$k5)
 case 5:m=b
 s=6
-return A.F(A.cV(A.bs("https://"+J.ag(j.h(p,"servis"))+"/imam/"+B.e.i(A.tH(new A.b3(Date.now(),!1))),0,null),null),$async$k5)
+return A.F(A.cV(A.bs(J.ag(j.h(p,"servis"))+"/imam/"+B.e.i(A.tH(new A.b3(Date.now(),!1))),0,null),null),$async$k5)
 case 6:l=b
 s=7
-return A.F(A.cV(A.bs("https://"+J.ag(j.h(p,"servis"))+"/muezzin/"+B.e.i(A.tH(new A.b3(Date.now(),!1))),0,null),null),$async$k5)
+return A.F(A.cV(A.bs(J.ag(j.h(p,"servis"))+"/muezzin/"+B.e.i(A.tH(new A.b3(Date.now(),!1))),0,null),null),$async$k5)
 case 7:k=b
 if(n.b===200)q.a5(new A.ahB(q,n,l,k,m))
 else A.dr("Error")
